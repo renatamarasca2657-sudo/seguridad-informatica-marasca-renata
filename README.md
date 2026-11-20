@@ -15,3 +15,22 @@
 # 8. Las copias de seguridad permiten guardar una copia de nuestros archivos importantes. Son útiles porque permiten recuperar la información si se pierde, se daña el dispositivo o sufrimos un ataque informático.
 
 
+# produccion propia:
+# Navegar seguros también depende de nosotros
+# Eslogan: ¡Pensá antes de hacer clic y protegé tu información!
+
+# 5 recomendaciones para navegar de forma segura
+# Utilizar contraseñas seguras y no compartirlas con nadie.
+# No abrir enlaces ni archivos de personas desconocidas.
+# Evitar compartir datos personales en páginas no confiables.
+# Mantener actualizados los dispositivos y el antivirus.
+# Cerrar sesión cuando terminemos de utilizar una cuenta.
+# ¡Cuidado con las amenazas informáticas!
+# El phishing es una amenaza que utiliza mensajes y correos falsos para engañarnos y robar nuestras contraseñas o datos personales. Nunca debemos ingresar información en enlaces sospechosos.
+
+# Reflexión final
+# Proteger nuestros datos es responsabilidad de todos. Navegar de manera segura nos ayuda a evitar peligros en Internet y a cuidar nuestra privacidad. Recordemos que la seguridad comienza con nuestras propias acciones.
+
+
+
+
